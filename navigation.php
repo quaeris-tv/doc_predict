@@ -11,5 +11,5 @@ return [
     //     ],
     // ],
     // 'Jigsaw Docs' => 'https://jigsaw.tighten.co/docs/installation',
-    'Modulo Predict' => 'docs/module-predict',
+    'Modulo Predict' => 'doc_predict/docs/module-predict',
 ];
