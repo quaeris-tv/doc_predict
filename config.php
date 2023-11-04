@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'https://quaeris-tv.github.io/doc_predict',
     'production' => false,
     'siteName' => 'Modulo Predict',
     'siteDescription' => '',
