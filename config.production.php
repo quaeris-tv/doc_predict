@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'https://jigsaw-docs-template.tighten.co',
+    'baseUrl' => 'https://quaeris-tv.github.io/doc_predict',
     'production' => true,
 
     // DocSearch credentials
