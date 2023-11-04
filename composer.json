@@ -1,4 +1,11 @@
 {
+    "name": "quaeris-tv/doc_predict",
+    "description": "Modulo Predict",
+    "homepage": "https://quaeris-tv.github.io/doc_predict/",
+    "authors": [
+
+    ],
+    "license": "MIT",
     "require": {
         "tightenco/jigsaw": "^1.7",
         "tightenco/jigsaw-docs-template": "^1.1",
